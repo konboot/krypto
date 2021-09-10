@@ -36,10 +36,10 @@ Hurray your app is ready!
 ![Demo2](https://user-images.githubusercontent.com/53315283/132913243-041af4f0-a466-44c1-b9d1-386923e5be12.PNG)
 
 
-![Demo3](https://user-images.githubusercontent.com/53315283/132913247-2eef57e0-2cc6-47e0-b86d-45e9093ae43c.PNG)
+![Demo3](https://user-images.githubusercontent.com/53315283/132914448-4c4ab77e-9925-41f1-8034-a5b55b8f9522.PNG)
 
 
-![Demo4](https://user-images.githubusercontent.com/53315283/132913257-bbe4320a-b984-4840-8399-82f2c5a5cf23.PNG)
+![Demo4](https://user-images.githubusercontent.com/53315283/132914462-292b7aad-b4ad-438f-82f6-6d8b44d60e8a.PNG)
 
 
 ![Demo5](https://user-images.githubusercontent.com/53315283/132913261-56bcc8ef-dcee-4c89-854a-fb546168203a.PNG)
