@@ -1,0 +1,12 @@
+.price {
+    font-size: 26px;
+    text-align: center;
+    margin-right: 10px;
+    margin-bottom: 25px;
+}
+
+.price-container {
+    display: flex;
+    justify-content: center;
+
+}

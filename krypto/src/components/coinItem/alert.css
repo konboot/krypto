@@ -1,0 +1,38 @@
+.alert-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 75%;
+    padding: 5px;
+}
+
+.alert {
+    padding: 5px;
+    border: solid black 1px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.alert-title {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.alert-price {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.error-msg {
+    text-align: center;
+    color: red;
+    background-color: lightgray;
+    border: solid lightgray 1px;
+    border-radius: 5px;
+    padding: 5px;
+}

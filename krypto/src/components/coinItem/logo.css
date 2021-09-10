@@ -1,0 +1,30 @@
+.logo {
+    width: 300px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.instructions {
+    width: 50%;
+    margin-bottom: 20px
+}
+
+@media (max-width: 800px) {
+    .instructions {
+        width: 90%;
+    }
+    .logo {
+        margin-bottom: 15px;
+    }
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    text-indent: 20px;
+}

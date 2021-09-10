@@ -1,0 +1,52 @@
+.info {
+    background-image: linear-gradient(to right, #1e3c72 0%, #2a5298 51%, #1e3c72 100%);
+}
+
+.info:hover { 
+    background-position: right center;
+    cursor: pointer;
+    box-shadow: inset 0 0 20px rgba(255, 255, 255, .5), 0 0 20px rgba(255, 255, 255, .2);
+}
+
+.danger {
+    background-image: linear-gradient(to right, #e52d27 0%, #b31217 51%, #e52d27 100%);
+}
+
+.danger:hover { 
+    background-position: right center;
+    cursor: pointer;
+    box-shadow: inset 0 0 20px rgba(255, 255, 255, .5), 0 0 20px rgba(255, 255, 255, .2);
+
+}
+
+.success {
+    background-image: linear-gradient(to right, #76b852 0%, #8DC26F 51%, #76b852 100%);
+}
+
+.success:hover { 
+    background-position: right center;
+    cursor: pointer;
+    box-shadow: inset 0 0 20px rgba(255, 255, 255, .5), 0 0 20px rgba(255, 255, 255, .2); 
+}
+
+.button {
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 100%;
+    border-radius: 5px;
+    outline: none
+}
+
+.button-container {
+    width: 50%;
+}
+
+@media (min-width:720px) {
+    .button-container {
+        width: 25%;
+    }
+}

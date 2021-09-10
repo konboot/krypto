@@ -1,0 +1,23 @@
+.chart {
+    width: 50%;
+    height: 150px;
+    border: solid black 1px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+@media (min-width: 720px) {
+    .chart {
+        width: 25%
+    }
+}
+
+@media (max-width: 450px) {
+    .chart {
+        width: 75%
+    }
+}

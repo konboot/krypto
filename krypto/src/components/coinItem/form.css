@@ -1,0 +1,27 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+.input-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.radio {
+    margin: 5px;
+}
+label {
+    margin-bottom: 10px;
+    font-size: 16px;
+    text-align: center;
+    
+}
+
+input {
+    padding: 5px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 25px;
+}

@@ -1,0 +1,24 @@
+.slider {
+    width: 75%
+}
+
+.rangeslider-horizontal .rangeslider__fill {
+    background-image: linear-gradient(to right, #1e3c72 0%, #2a5298 51%, #1e3c72 100%)
+}
+
+.rangeslider-horizontal .rangeslider__handle {
+    content: none;
+}
+
+.rangeslider-horizontal .rangeslider__handle {
+    width: 10px;
+}
+
+.rangeslider-horizontal .rangeslider__handle:after {
+    content: none;
+}
+
+.value {
+    text-align: center;
+    margin-bottom: 10px;
+}
