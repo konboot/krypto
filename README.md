@@ -29,4 +29,9 @@ Similarly, say, the currency price of BTC is 35,000$, a user sets an alert for B
 
 Hurray your app is ready!
 
-![Demo1](https://user-images.githubusercontent.com/53315283/132889451-eb27bbb6-271e-4cd7-a460-1518c90996ad.PNG)
+
+![Demo1](https://user-images.githubusercontent.com/53315283/132913232-a0b2d313-7078-4c35-a6de-9c307ed80506.PNG)
+![Demo2](https://user-images.githubusercontent.com/53315283/132913243-041af4f0-a466-44c1-b9d1-386923e5be12.PNG)
+![Demo3](https://user-images.githubusercontent.com/53315283/132913247-2eef57e0-2cc6-47e0-b86d-45e9093ae43c.PNG)
+![Demo4](https://user-images.githubusercontent.com/53315283/132913257-bbe4320a-b984-4840-8399-82f2c5a5cf23.PNG)
+![Demo5](https://user-images.githubusercontent.com/53315283/132913261-56bcc8ef-dcee-4c89-854a-fb546168203a.PNG)
