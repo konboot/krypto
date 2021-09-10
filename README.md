@@ -5,7 +5,7 @@ Create a price alert application that triggers an email when the user’s target
 Say, the current price of BTC is 28,000$, a user sets an alert for BTC at a price of 33,000$. The application should send an email to the user when the price of BTC reaches 33,000$. 
 Similarly, say, the currency price of BTC is 35,000$, a user sets an alert for BTC at a price of 33,000$. The application should send an email when the price of BTC reaches 33,000$. 
 
-#### Things to do for the assignment 
+#### Things to do for the assignment:
 - Create a rest API endpoint for the user’s to create an alert `alerts/create/` - Create a rest API endpoint for the user’s to delete an alert `alerts/delete/` - Create a rest API endpoint to fetch all the alerts that the user has created. - The response should also include the status of the alerts 
 (created/deleted/triggered/.. or any other status you feel needs to be included) - Paginate the response. 
 - Include filter options based on the status of the alerts. Eg: if the user wanted only the alerts that were triggered, then the endpoint should provide just that) 
@@ -29,9 +29,17 @@ Similarly, say, the currency price of BTC is 35,000$, a user sets an alert for B
 
 Hurray your app is ready!
 
-
+#### Demo:
 ![Demo1](https://user-images.githubusercontent.com/53315283/132913232-a0b2d313-7078-4c35-a6de-9c307ed80506.PNG)
+
+
 ![Demo2](https://user-images.githubusercontent.com/53315283/132913243-041af4f0-a466-44c1-b9d1-386923e5be12.PNG)
+
+
 ![Demo3](https://user-images.githubusercontent.com/53315283/132913247-2eef57e0-2cc6-47e0-b86d-45e9093ae43c.PNG)
+
+
 ![Demo4](https://user-images.githubusercontent.com/53315283/132913257-bbe4320a-b984-4840-8399-82f2c5a5cf23.PNG)
+
+
 ![Demo5](https://user-images.githubusercontent.com/53315283/132913261-56bcc8ef-dcee-4c89-854a-fb546168203a.PNG)
