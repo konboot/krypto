@@ -14,3 +14,5 @@ Things to do for the assignment
 - Write a script that monitors the price of the cryptocurrency 
 - You can use this endpoint to fetch the latest price of the cryptocurrency: https://api.coingecko.com/api/v3/coins/markets?vs_currency=USD&order=market_cap_d esc&per_page=100&page=1&sparkline=false 
 - When the price of the coin reaches the price specified by the users, send an email to all the users that set the alert at that price. (send mail using Gmail SMTP, SendGrid, etc) - You should set up a background worker(eg: celery/python-script/go-script) to send the email. Use Rabbit MQ/Redis as a message broker.) 
+
+<img src=“https://github.com/konboot/krypto/krypto/DEMO1.PNG”>
