@@ -1,3 +1,8 @@
+## Important:
+   Please check bettter version of this repo as I have used env file so I have to make another repo. Kindly go through that repo.
+   Link to the repo:
+    https://github.com/konboot/18BCY10064--Krypto
+    
 # Krypto
 ### Application - Krypto
 
